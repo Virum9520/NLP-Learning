@@ -1,0 +1,14 @@
+
+-Tokenization -- 1.Sentence Tokenization
+              -- 1.Word Tokenization
+
+-Stemming -- Origin of word
+
+-Lemmatization -- Common part in words
+
+-Bag of Words -- Counting similar words
+
+-TF-IDF -- Counting similar words with weightage(term freq inverse doc freq)
+        -- Chance of Overfitting as semantic info is not stored(TF-IDF gives importance to uncommon words)
+
+-Word2Vec -- Semantic info is stored as vectors of 32+ dim
